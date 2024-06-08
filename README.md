@@ -10,3 +10,6 @@ We can see the webcam screen in real time with this code and check the control d
 Below is the actual screen of the webcam.
 
 <img src="https://github.com/lchyeon0123/Kairos/assets/99176235/24b4bf44-f8c0-4340-992e-f4c05a59a61b">
+
+
+![image](https://github.com/lchyeon0123/Kairos/assets/99176235/2df1699d-7c28-444e-bfc1-c878ffd8f88f)
