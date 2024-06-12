@@ -15,6 +15,6 @@ Below is the actual screen of the webcam.
 
 
   
-Below is the actual screen of rviz.
+Below is the actual screen of rviz. You can intuitively check the robot's location and driving path.
 
 <img src="https://github.com/lchyeon0123/Kairos/assets/99176235/1f56e26a-aa8a-42f9-b802-822759cb32e8" width="400" height="200">
