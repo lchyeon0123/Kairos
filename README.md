@@ -6,8 +6,7 @@ python3 teleop.py --> 3 terminal
 rviz --> 4 terminal
 ```
 
-We can see the webcam screen in real time with this code and check the control direction.
-
+The recognized ArUCo Marker and the robot's path can be visualized in real time to monitor the robot's condition and environment. Use OpenCV's drawDetectedMarkers and drawAxis functions to display the recognized markers and robot's position on the screen.  
 Below is the actual screen of the webcam.
 
 <img src="https://github.com/lchyeon0123/Kairos/assets/99176235/24b4bf44-f8c0-4340-992e-f4c05a59a61b">  
